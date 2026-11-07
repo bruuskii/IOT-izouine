@@ -218,7 +218,7 @@ done
 
 echo ""
 echo "============================================="
-echo "         [BONUS] Setup Complete!             "
+echo "                   [BONUS]             "
 echo "============================================="
 echo ""
 echo "  GitLab UI:   ${GITLAB_URL}"
